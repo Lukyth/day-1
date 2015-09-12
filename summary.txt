@@ -8,3 +8,6 @@ description : show current git status
 
 git log
 description: show recently log
+
+git diff
+description: Show changes between commits, commit and working tree, etc
