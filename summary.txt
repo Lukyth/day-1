@@ -26,3 +26,6 @@ descripiton: git remote commad
 
 git push <remote> <branch>
 description: Update remote refs along with associated objects
+
+git init
+description: Create an empty Git repository or reinitialize an existing one
