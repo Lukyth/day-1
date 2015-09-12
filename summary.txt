@@ -1,0 +1,2 @@
+git status
+description : show current git status
