@@ -4,10 +4,10 @@ git add <filename, foldername>
 description: Add file content to git. If add folder name, this will add all files within the folder.
 
 git status
-description : show current git status
+description: Show current git status
 
 git log
-description: show recently log
+description: Show recently log
 
 git diff
 description: Show changes between commits, commit and working tree, etc
@@ -15,4 +15,6 @@ description: Show changes between commits, commit and working tree, etc
 git pull
 description: To pull all last file(s) from reposi
 
+git commit
+description: Record changes to the repository
 
