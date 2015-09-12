@@ -1,0 +1,4 @@
+Git Command List
+
+git add <filename, foldername>
+description: Add file content to git. If add folder name, this will add all files within the folder.
