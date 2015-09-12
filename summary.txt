@@ -15,8 +15,14 @@ description: Show changes between commits, commit and working tree, etc
 git pull
 description: To pull all last file(s) from reposi
 
-git commit
+git commit <option>
 description: Record changes to the repository
+option:
+--amend: Commit changes to previous commit
+-m: Add a message
 
 git remote
 descripiton: git remote commad
+
+git push <remote> <branch>
+description: Update remote refs along with associated objects
