@@ -5,3 +5,6 @@ description: Add file content to git. If add folder name, this will add all file
 
 git status
 description : show current git status
+
+git log
+description: show recently log
