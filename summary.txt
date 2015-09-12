@@ -18,3 +18,5 @@ description: To pull all last file(s) from reposi
 git commit
 description: Record changes to the repository
 
+git remote
+descripiton: git remote commad
